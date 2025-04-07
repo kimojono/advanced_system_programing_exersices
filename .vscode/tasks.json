@@ -1,0 +1,9 @@
+{
+    "version": "2.0.0",
+    "command": "python${cwd}",
+    "args": ["${workspaceFolder}/ex3/main.py"],
+    "options": {
+        "cwd": "${workspaceFolder}/ex3"
+    },
+    "problemMatcher": []
+}
